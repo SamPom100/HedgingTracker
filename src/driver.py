@@ -1,3 +1,9 @@
+'''
+
+Run this to add daily option data to the database
+
+'''
+
 from option import AutoStock
 
 STOCK_LIST = [
